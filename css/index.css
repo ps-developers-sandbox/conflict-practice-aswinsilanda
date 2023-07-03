@@ -15,9 +15,8 @@ body{
 
 }
 
-a {
-<<<<<<< HEAD
-	color: #000;
+a{
+	color: #999999;
 }
 
 a:hover{
@@ -28,7 +27,6 @@ a:hover{
 
 a:hover{
 	color: #dddddd;
->>>>>>> master
 }
 
 #intro_container, #outro_container{
