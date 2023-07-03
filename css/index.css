@@ -16,10 +16,17 @@ body{
 }
 
 a{
-	color: #999;
+	color: #999999;
 }
+
 a:hover{
-	color: #ddd;
+	color: #fff;
+=======
+	color: #999999;
+}
+
+a:hover{
+	color: #dddddd;
 }
 
 #intro_container, #outro_container{
@@ -108,11 +115,11 @@ span[cartoon]:hover{
 
 }
 #cartoon_arrow{
-	
+
 	display: block;
 
-	width: 0; 
-	height: 0; 
+	width: 0;
+	height: 0;
 	border-left: 10px solid transparent;
 	border-right: 10px solid transparent;
 	border-bottom: 20px solid #fff;
@@ -123,11 +130,11 @@ span[cartoon]:hover{
 
 }
 #cartoon_arrow[flipped=true]{
-	
+
 	display: block;
 
-	width: 0; 
-	height: 0; 
+	width: 0;
+	height: 0;
 	border-left: 10px solid transparent;
 	border-right: 10px solid transparent;
 	border-bottom: 20px solid #fff;
